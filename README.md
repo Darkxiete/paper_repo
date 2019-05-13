@@ -4,7 +4,7 @@ An overview of gradient descent optimization algorithms:
 
 ## Classification
 
-LeNet: [paper](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf)
+LeNet: [paper](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf)  
 AlexNet: [paper](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks)  
 VGG: [arxiv](https://arxiv.org/abs/1409.1556)  
 Inception: 
